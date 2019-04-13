@@ -1,0 +1,120 @@
+.navbar{
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+}
+.logoname{
+    margin-right: 20px ; 
+    color: #2a4293;
+    padding-right: 650px;
+    padding-left: 20px;
+}
+.navbar-nav a :hover .navbar-nav a :focus{
+    color:#d40f8d;
+}
+.banner{
+    background-color: #d40f8d;
+    text-align: center;
+    top:12rem;
+    height: 500px;
+    padding-top: 350px;
+    color: white;
+}
+.banner button{
+    background-color:#2a4293; 
+    color: white;
+    text-decoration: none;
+}
+.banner button :hover{
+    background-color: rgba(5, 5, 48, 0.911)
+}
+.wwd{
+    margin-top: 30px;
+    padding-top: 10px;
+    text-align: center;
+    margin:50px;
+}
+.wwd p{
+    text-align: justify;
+    padding:10px 50px;
+    font-size: 20px;
+    line-height: 135%;
+}
+.slider{
+    margin:50px  100px 20px 100px;
+}
+.slider h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.row p{
+    text-align: justify;
+}
+.card-deck{
+    margin: 70px;
+}
+.pripl{
+    margin:4rem;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.pripl h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.testo{
+text-align: center;
+}
+.test{
+    width:25%;
+    float:left;
+    margin: 50px 0px 100px 0px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.test img{
+    border-radius: 50%;
+    border:2px solid #d40f8d;
+}
+.foot{
+    background-color: rgb(41, 40, 40);
+    height:200px;
+    margin-top: 500px;
+    padding-top: 30px;
+}
+.foot h4{
+    padding-bottom: 20px;
+    color:white;
+}
+.about{
+    float: left;
+    width: 25%;
+    padding-right: 50px;
+    padding-left: 20px;
+    color: grey;
+}
+.contact{
+    color: grey;
+    text-align: center;
+    width: 25%;
+    float: left;
+}
+.icons ul li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 40px;
+    padding-top: 20px;
+    float: right;
+}
+.mylink{
+    color: grey;
+    text-align: center;
+    margin: 50px;
+}
+.mylink a:hover{
+    color: #2a4293;
+    text-decoration: none;
+}
